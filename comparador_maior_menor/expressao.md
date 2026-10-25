@@ -1,1 +1,1 @@
-S = A₀’A₁B₀B₁’
+$S = \overline{A₀}A₁B₀\overline{B₁}$
