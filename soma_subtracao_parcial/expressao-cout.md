@@ -1,1 +1,1 @@
-$Cₒᵤₜ = B(A ⊕ G)$
+$C_{\text{out}} = B(A \oplus G)$
