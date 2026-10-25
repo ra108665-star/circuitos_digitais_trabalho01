@@ -1,1 +1,2 @@
-$S = \overline{(A ⊕ B ⊕ C ⊕ D ⊕ P)}$
+$S = \overline{A \oplus B \oplus C \oplus D \oplus P}$
+
